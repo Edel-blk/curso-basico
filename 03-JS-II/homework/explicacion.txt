@@ -1,0 +1,34 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+
+for
+
+El ciclo for es como si tuvieras un cuarto lleno de golosinas pero solo puedes comer una a la vez y tus padres te pueden poner un limite, supongamos que
+tu limite de golosinas por hoy es de 10, entonces tu comienzas en 0, por que no llevas ninguna, cada una de las golosinas las apuntas en una tabla
+que tienen tus padres, entonces tomas la primera golosina, pero no puedes agarrar la siguiente hasta que termines por completo la primera golosina,
+ya que termines la primera puedes ir a anotarla y podras ir por la siguiente golosina y asi sucesivamente hasta que llegues al limite de 10.
+
+
+
+
+
+&&, ||, !
+
+Los operadores booleanos utilizados son comparadores que tienen diferentes funciones como por ejemplo:
+
+El comparador AND(&&) es utilizado para dar un resultado entre los valores de dos o mas variables, es como si fueramos a comprar a varias tiendas,
+y necesitamos dos productos, pero solo podemos comprar los dos productos juntos, no por separado, entonces verificamos en las tiendas que ambos
+productos esten en venta, ya sea un jugo y unas galletas, si en una tienda hay jugo pero no galletas entonces tendremos un resultado false que nos
+indica si podemos comprar las cosas ahi o no, en este caso un "false" es un "no se puede comprar", si en otra
+tenemos galletas pero no jugo nuestro resultado tambien sera false, si en la siguiente tienda no hay ninguna de los dos con mas razon tendremos false
+pero en la ultima tienda si hay jugo y galletas entonces nuestro resultado sera un true que seria una "si puedes comprar en esa tienda".
+
+El comparador OR(||), si seguimos con el ejemplo del jugo y las galletas en la tienda, en este caso si podemos comprar las cosas por separado, si 
+en una tienda hay jugo pero galletas no, nuestro resultado sera true el cual es "si puedes comprar", si en otra tienda tenemos galletas pero no jugo
+nuestro resultado tambien sera true "podemos comprar las cosas por separado", si hay una tienda que tiene las dos cosas tambien nos dara true, podemos 
+comprar los cosas por separado pero tambien juntas, y por ultimo si no tenemos ni galletas ni jugos en la tienda pues seria un false, ya que no podemos
+comprar nada.
+
+El operador NOT(!) es utilizado para negar cosas, es como jugar la mundo al reves en el que todo lo que dices es lo contrario, si yo digo "tengo hambre" 
+se convertiria en un "no tengo hambre", si digo que no tengo sueño significa que si tengo sueño, basicamente todo lo que digas es lo contrario.
